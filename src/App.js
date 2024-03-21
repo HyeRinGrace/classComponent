@@ -1,3 +1,5 @@
+// 클래스 컴포넌트로 변경....
+
 import React, { Component } from 'react';
 import './App.css';
 import Box from './component/box';
